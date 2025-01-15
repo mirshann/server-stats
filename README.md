@@ -28,3 +28,5 @@ Ensure the following tools are installed and accessible on your Linux system:
     ```bash
     ./server-stats.sh
     ```
+Project URL
+https://roadmap.sh/projects/server-stats
